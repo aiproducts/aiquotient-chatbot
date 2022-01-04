@@ -2,7 +2,7 @@
 - 👀 I’m interested in autonomous code development
 - 🌱 I’m currently learning Machine Learning coding patterns
 - 💞️ I’m looking to collaborate on building AI products
-- 📫 How to reach me - support@aiquotient.app
+- 📫 How to reach me - gideon@feedbackfirst.app
 
 <!---
 aiquotient-chatbot/aiquotient-chatbot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
